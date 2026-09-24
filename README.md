@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://github.com/0z5a/InfraSWE"><img src="assets/infraswe.svg" width="110" height="30" alt="InfraSWE" /></a>
   <a href="https://github.com/0z5a/FlashNS"><img src="assets/flashns.svg" width="100" height="30" alt="FlashNS" /></a>
+  <a href="https://github.com/ViperEkura/AstrAI"><img src="assets/contributors/viperekura-astrai.svg?v=compact" width="88" height="30" alt="ViperEkura/AstrAI" /></a>
   <br />
   <a href="https://github.com/vllm-project/vllm"><img src="assets/contributors/vllm-project-vllm.svg?v=compact" width="76" height="30" alt="vllm-project/vllm" /></a>
   <a href="https://github.com/vllm-project/vllm-omni"><img src="assets/contributors/vllm-project-vllm-omni.svg?v=compact" width="118" height="30" alt="vllm-project/vllm-omni" /></a>
@@ -18,7 +19,7 @@
   <br />
   <a href="https://github.com/Project-HAMi/HAMi"><img src="assets/contributors/project-hami-hami.svg?v=compact" width="76" height="30" alt="Project-HAMi/HAMi" /></a>
   <a href="https://github.com/verl-project/verl-omni"><img src="assets/contributors/verl-project-verl-omni.svg?v=compact" width="118" height="30" alt="verl-project/verl-omni" /></a>
-  <a href="https://github.com/ViperEkura/AstrAI"><img src="assets/contributors/viperekura-astrai.svg?v=compact" width="88" height="30" alt="ViperEkura/AstrAI" /></a>
+  <a href="https://github.com/NVlabs/cuda-oxide"><img src="assets/contributors/nvlabs-cuda-oxide.svg" width="128" height="30" alt="NVlabs/cuda-oxide" /></a>
 </p>
 
 <details>

@@ -13,8 +13,7 @@
   <a href="https://github.com/NVIDIA/cudnn-frontend"><img src="assets/contributors/nvidia-cudnn-frontend.svg?v=compact" width="168" height="30" alt="NVIDIA/cudnn-frontend" /></a>
   <a href="https://github.com/Project-HAMi/HAMi"><img src="assets/contributors/project-hami-hami.svg?v=compact" width="76" height="30" alt="Project-HAMi/HAMi" /></a>
   <br />
-  <a href="https://github.com/llm-d/llm-d-inference-sim"><img src="assets/contributors/llm-d-llm-d-inference-sim.svg?v=compact" width="218" height="30" alt="llm-d/llm-d-inference-sim" /></a>
-  <a href="https://github.com/llm-d/llm-d-router"><img src="assets/contributors/llm-d-llm-d-router.svg?v=compact" width="148" height="30" alt="llm-d/llm-d-router" /></a>
+  <a href="https://github.com/llm-d/llm-d"><img src="assets/contributors/llm-d.svg" width="86" height="30" alt="llm-d" /></a>
   <a href="https://github.com/verl-project/verl-omni"><img src="assets/contributors/verl-project-verl-omni.svg?v=compact" width="118" height="30" alt="verl-project/verl-omni" /></a>
   <a href="https://github.com/ViperEkura/AstrAI"><img src="assets/contributors/viperekura-astrai.svg?v=compact" width="88" height="30" alt="ViperEkura/AstrAI" /></a>
 </p>

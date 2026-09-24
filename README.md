@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/home.svg?v=pixel-4" width="960" alt="0z5a — a white and baby-blue retro desktop with lace borders, project files and a toolbox. No photographs." />
+  <img src="assets/home-z-raised.svg" width="960" alt="0z5a — a white and baby-blue retro desktop with lace borders, project files and a toolbox. No photographs." />
 </p>
 
 <p align="center">

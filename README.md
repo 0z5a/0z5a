@@ -1,16 +1,22 @@
 <p align="center">
-  <img src="assets/home-boot-aligned.svg" width="960" alt="/0z5a — a pixel startup command with a blinking cursor. White and baby-blue desktop with projects, open source and a toolbox." />
+  <img src="assets/home-boot-grid.svg" width="960" alt="/0z5a — a pixel startup command with a blinking cursor. White and baby-blue desktop with projects, open source and a toolbox." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/0z5a/InfraSWE"><img src="assets/infraswe.svg" width="110" height="30" alt="InfraSWE" /></a>
-  <a href="https://github.com/0z5a/FlashNS"><img src="assets/flashns.svg" width="100" height="30" alt="FlashNS" /></a>
-  <a href="https://github.com/0z5a?tab=repositories"><img src="assets/repositories.svg" width="156" height="30" alt="Repositories" /></a>
+  <a href="https://github.com/vllm-project/vllm"><img src="assets/contributors/vllm-project-vllm.svg" width="176" height="54" alt="vllm-project/vllm" /></a>
+  <a href="https://github.com/vllm-project/vllm-omni"><img src="assets/contributors/vllm-project-vllm-omni.svg" width="176" height="54" alt="vllm-project/vllm-omni" /></a>
+  <a href="https://github.com/deepspeedai/DeepSpeed"><img src="assets/contributors/deepspeedai-deepspeed.svg" width="176" height="54" alt="deepspeedai/DeepSpeed" /></a>
+  <a href="https://github.com/ByteDance-Seed/VeOmni"><img src="assets/contributors/bytedance-seed-veomni.svg" width="176" height="54" alt="ByteDance-Seed/VeOmni" /></a>
   <br />
-  <a href="https://github.com/vllm-project/vllm"><img src="assets/vllm.svg" width="76" height="30" alt="vLLM" /></a>
-  <a href="https://github.com/vllm-project/vllm-omni"><img src="assets/vllm-omni.svg" width="128" height="30" alt="vLLM-Omni" /></a>
-  <a href="https://github.com/deepspeedai/DeepSpeed"><img src="assets/deepspeed.svg" width="128" height="30" alt="DeepSpeed" /></a>
-  <a href="https://github.com/llm-d/llm-d"><img src="assets/llm-d.svg" width="86" height="30" alt="llm-d" /></a>
+  <a href="https://github.com/kvcache-ai/Mooncake"><img src="assets/contributors/kvcache-ai-mooncake.svg" width="176" height="54" alt="kvcache-ai/Mooncake" /></a>
+  <a href="https://github.com/uccl-project/uccl"><img src="assets/contributors/uccl-project-uccl.svg" width="176" height="54" alt="uccl-project/uccl" /></a>
+  <a href="https://github.com/NVIDIA/cudnn-frontend"><img src="assets/contributors/nvidia-cudnn-frontend.svg" width="176" height="54" alt="NVIDIA/cudnn-frontend" /></a>
+  <a href="https://github.com/Project-HAMi/HAMi"><img src="assets/contributors/project-hami-hami.svg" width="176" height="54" alt="Project-HAMi/HAMi" /></a>
+  <br />
+  <a href="https://github.com/llm-d/llm-d-inference-sim"><img src="assets/contributors/llm-d-llm-d-inference-sim.svg" width="176" height="54" alt="llm-d/llm-d-inference-sim" /></a>
+  <a href="https://github.com/llm-d/llm-d-router"><img src="assets/contributors/llm-d-llm-d-router.svg" width="176" height="54" alt="llm-d/llm-d-router" /></a>
+  <a href="https://github.com/verl-project/verl-omni"><img src="assets/contributors/verl-project-verl-omni.svg" width="176" height="54" alt="verl-project/verl-omni" /></a>
+  <a href="https://github.com/ViperEkura/AstrAI"><img src="assets/contributors/viperekura-astrai.svg" width="176" height="54" alt="ViperEkura/AstrAI" /></a>
 </p>
 
 <details>

@@ -9,18 +9,18 @@
   ],
   "frames": 9,
   "frame_durations_ms": [
-    80,
-    90,
-    80,
-    80,
-    90,
-    80,
-    80,
-    90,
-    90
+    88.88888888888889,
+    100.0,
+    88.88888888888889,
+    88.88888888888889,
+    100.0,
+    88.88888888888889,
+    88.88888888888889,
+    100.0,
+    100.0
   ],
-  "loop_ms": 760,
-  "processing": "Original transparent frames preserved as lossless PNGs; discrete SVG animation uses the original 760ms loop timing.",
+  "loop_ms": 844.4444444444445,
+  "processing": "Original transparent frames preserved as lossless PNGs; discrete SVG animation uses an 844.444444ms loop at 0.9x original speed.",
   "original_frame_durations_ms": [
     80,
     90,
@@ -32,5 +32,5 @@
     90,
     90
   ],
-  "speed_multiplier": 1
+  "speed_multiplier": 0.9
 }

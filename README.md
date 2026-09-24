@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/home-short-za.svg" width="960" alt="0z5a — a white and baby-blue retro desktop with lace borders, project files and a toolbox. No photographs." />
+  <img src="assets/home-boot-command.svg" width="960" alt="/0z5a — a pixel startup command with a blinking cursor. White and baby-blue desktop with projects, open source and a toolbox." />
 </p>
 
 <p align="center">

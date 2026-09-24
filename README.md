@@ -3,6 +3,9 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/0z5a/InfraSWE"><img src="assets/infraswe.svg" width="110" height="30" alt="InfraSWE" /></a>
+  <a href="https://github.com/0z5a/FlashNS"><img src="assets/flashns.svg" width="100" height="30" alt="FlashNS" /></a>
+  <br />
   <a href="https://github.com/vllm-project/vllm"><img src="assets/contributors/vllm-project-vllm.svg?v=compact" width="76" height="30" alt="vllm-project/vllm" /></a>
   <a href="https://github.com/vllm-project/vllm-omni"><img src="assets/contributors/vllm-project-vllm-omni.svg?v=compact" width="118" height="30" alt="vllm-project/vllm-omni" /></a>
   <a href="https://github.com/deepspeedai/DeepSpeed"><img src="assets/contributors/deepspeedai-deepspeed.svg?v=compact" width="118" height="30" alt="deepspeedai/DeepSpeed" /></a>

@@ -9,18 +9,18 @@
   ],
   "frames": 9,
   "frame_durations_ms": [
-    5.0,
-    5.625,
-    5.0,
-    5.0,
-    5.625,
-    5.0,
-    5.0,
-    5.625,
-    5.625
+    8.0,
+    9.0,
+    8.0,
+    8.0,
+    9.0,
+    8.0,
+    8.0,
+    9.0,
+    9.0
   ],
-  "loop_ms": 47.5,
-  "processing": "Original transparent frames preserved as lossless PNGs; discrete SVG animation uses a 47.5ms loop to avoid GIF minimum-delay clamping.",
+  "loop_ms": 76,
+  "processing": "Original transparent frames preserved as lossless PNGs; discrete SVG animation uses a 76ms loop to avoid GIF minimum-delay clamping.",
   "original_frame_durations_ms": [
     80,
     90,
@@ -32,5 +32,5 @@
     90,
     90
   ],
-  "speed_multiplier": 16
+  "speed_multiplier": 10
 }

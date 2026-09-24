@@ -1,15 +1,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=0z5a&hide_border=true&show_icons=true&theme=transparent" alt="GitHub stats" />
+      <img src="assets/stats.svg" alt="GitHub activity stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0z5a&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8" alt="Top languages" />
+      <img src="assets/languages.svg" alt="Top languages in original public repositories" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-profile-trophy.vercel.app/?username=0z5a&title=-Followers&theme=algolia&no-bg=true&no-frame=true" alt="GitHub trophies" />
+      <img src="assets/highlights.svg" alt="GitHub highlights" />
     </td>
   </tr>
 </table>

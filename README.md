@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/home-boot-grid.svg" width="960" alt="/0z5a — a pixel startup command with a blinking cursor. White and baby-blue desktop with projects, open source and a toolbox." />
+  <img src="assets/home-boot-fine-grid.svg" width="960" alt="/0z5a — a pixel startup command with a blinking cursor. White and baby-blue desktop with projects, open source and a toolbox." />
 </p>
 
 <p align="center">

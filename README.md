@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/home-mienmienmao-hearts.svg" width="960" alt="/0z5a — a pixel startup command with a blinking cursor. White and baby-blue desktop with projects, open source, a toolbox and an animated cyber sleepy cat." />
+  <img src="assets/home-mienmienmao-hearts-0_7x.svg" width="960" alt="/0z5a — a pixel startup command with a blinking cursor. White and baby-blue desktop with projects, open source, a toolbox and an animated cyber sleepy cat." />
 </p>
 
 <p align="center">

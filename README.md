@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="assets/home.svg?v=pixel-4" width="960" alt="0z5a — a white and baby-blue retro desktop with lace borders, project files and a toolbox. No photographs." />
+  <img src="assets/home.svg?v=pixel-5" width="960" alt="0z5a — a white and baby-blue retro desktop with lace borders, project files and a toolbox. No photographs." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/0z5a/InfraSWE"><img src="assets/infraswe.svg?v=pixel-4" width="110" height="30" alt="InfraSWE" /></a>
-  <a href="https://github.com/0z5a/FlashNS"><img src="assets/flashns.svg?v=pixel-4" width="100" height="30" alt="FlashNS" /></a>
-  <a href="https://github.com/0z5a?tab=repositories"><img src="assets/repositories.svg?v=pixel-4" width="156" height="30" alt="Repositories" /></a>
+  <a href="https://github.com/0z5a/InfraSWE"><img src="assets/infraswe.svg?v=pixel-5" width="110" height="30" alt="InfraSWE" /></a>
+  <a href="https://github.com/0z5a/FlashNS"><img src="assets/flashns.svg?v=pixel-5" width="100" height="30" alt="FlashNS" /></a>
+  <a href="https://github.com/0z5a?tab=repositories"><img src="assets/repositories.svg?v=pixel-5" width="156" height="30" alt="Repositories" /></a>
   <br />
-  <a href="https://github.com/vllm-project/vllm"><img src="assets/vllm.svg?v=pixel-4" width="76" height="30" alt="vLLM" /></a>
-  <a href="https://github.com/vllm-project/vllm-omni"><img src="assets/vllm-omni.svg?v=pixel-4" width="128" height="30" alt="vLLM-Omni" /></a>
-  <a href="https://github.com/deepspeedai/DeepSpeed"><img src="assets/deepspeed.svg?v=pixel-4" width="128" height="30" alt="DeepSpeed" /></a>
-  <a href="https://github.com/llm-d/llm-d"><img src="assets/llm-d.svg?v=pixel-4" width="86" height="30" alt="llm-d" /></a>
+  <a href="https://github.com/vllm-project/vllm"><img src="assets/vllm.svg?v=pixel-5" width="76" height="30" alt="vLLM" /></a>
+  <a href="https://github.com/vllm-project/vllm-omni"><img src="assets/vllm-omni.svg?v=pixel-5" width="128" height="30" alt="vLLM-Omni" /></a>
+  <a href="https://github.com/deepspeedai/DeepSpeed"><img src="assets/deepspeed.svg?v=pixel-5" width="128" height="30" alt="DeepSpeed" /></a>
+  <a href="https://github.com/llm-d/llm-d"><img src="assets/llm-d.svg?v=pixel-5" width="86" height="30" alt="llm-d" /></a>
 </p>
 
 <details>
-<summary><img src="assets/stats-label.svg?v=pixel-4" width="156" height="30" alt="GitHub stats" /></summary>
+<summary><img src="assets/stats-label.svg?v=pixel-5" width="156" height="30" alt="GitHub stats" /></summary>
 
 <table>
   <tr>

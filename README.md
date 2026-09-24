@@ -1,24 +1,21 @@
 <table>
   <tr>
     <td>
-      <img src="assets/stats.svg" alt="GitHub activity stats" />
+        <img src="https://github-readme-stats-git-main-isotr0pys-projects.vercel.app/api?username=0z5a&hide_border=true&show_icons=true&theme=transparent&count_private=true" />
     </td>
     <td>
-      <img src="assets/languages.svg" alt="Top languages in original public repositories" />
+        <img src="https://github-readme-stats-git-main-isotr0pys-projects.vercel.app/api/top-langs/?username=0z5a&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=xformers-prebuild-wheels,0z5a.github.io,github-profile-trophy,github-readme-stats&langs_count=8" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <img src="assets/highlights.svg" alt="GitHub highlights" />
-    </td>
-  </tr>
+  <td colspan=2>
+        <img src="https://github-profile-trophy-git-main-isotr0pys-projects.vercel.app/?username=0z5a&title=-Followers&theme=algolia&no-bg=true&no-frame=true" />
+  </td>
 </table>
 
 ### 📜 **Skills**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-DAA520?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Rust-darksalmon?style=flat-square&logo=Rust&logoColor=fff)
+![](https://img.shields.io/badge/Linux-DAA520?style=flat-square&logo=linux&logoColor=fff)
+![](https://img.shields.io/badge/-Git-B22222?style=flat-square&logo=Git&logoColor=fff)
+![](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252)
+![](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)

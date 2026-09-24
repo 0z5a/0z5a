@@ -9,19 +9,19 @@
   ],
   "frames": 9,
   "frame_durations_ms": [
-    40,
-    50,
-    40,
-    40,
-    40,
-    40,
-    40,
-    50,
-    40
+    20,
+    20,
+    20,
+    20,
+    30,
+    20,
+    20,
+    20,
+    20
   ],
-  "loop_ms": 380,
-  "processing": "Background removed per frame; original foreground colors preserved. GIF frame delays halved without re-encoding.",
-  "sha256": "6f8a0446a9f4b8483e5e00616bb1c7ad5682ed7623198d851061786a65c5e833",
+  "loop_ms": 190,
+  "processing": "Background removed per frame; original foreground colors preserved. GIF frame delays reduced to 4x original speed without re-encoding.",
+  "sha256": "d056a67f9a1b42ccdc2f15db7ebb579d8a554162ad5a1ad24a0a93c44c16b24a",
   "original_frame_durations_ms": [
     80,
     90,
@@ -33,5 +33,5 @@
     90,
     90
   ],
-  "speed_multiplier": 2
+  "speed_multiplier": 4
 }

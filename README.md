@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/0z5a/InfraSWE">InfraSWE</a> ·
-  <a href="https://github.com/0z5a/FlashNS">FlashNS</a> ·
-  <a href="https://github.com/0z5a?tab=repositories">Repositories</a>
+  <a href="https://github.com/0z5a/InfraSWE"><img src="assets/infraswe.svg" width="110" height="30" alt="InfraSWE" /></a>
+  <a href="https://github.com/0z5a/FlashNS"><img src="assets/flashns.svg" width="100" height="30" alt="FlashNS" /></a>
+  <a href="https://github.com/0z5a?tab=repositories"><img src="assets/repositories.svg" width="156" height="30" alt="Repositories" /></a>
   <br />
-  <a href="https://github.com/vllm-project/vllm">vLLM</a> ·
-  <a href="https://github.com/vllm-project/vllm-omni">vLLM-Omni</a> ·
-  <a href="https://github.com/deepspeedai/DeepSpeed">DeepSpeed</a> ·
-  <a href="https://github.com/llm-d/llm-d">llm-d</a>
+  <a href="https://github.com/vllm-project/vllm"><img src="assets/vllm.svg" width="76" height="30" alt="vLLM" /></a>
+  <a href="https://github.com/vllm-project/vllm-omni"><img src="assets/vllm-omni.svg" width="128" height="30" alt="vLLM-Omni" /></a>
+  <a href="https://github.com/deepspeedai/DeepSpeed"><img src="assets/deepspeed.svg" width="128" height="30" alt="DeepSpeed" /></a>
+  <a href="https://github.com/llm-d/llm-d"><img src="assets/llm-d.svg" width="86" height="30" alt="llm-d" /></a>
 </p>
 
 <details>
-<summary>♡ GitHub stats</summary>
+<summary><img src="assets/stats-label.svg" width="156" height="30" alt="GitHub stats" /></summary>
 
 <table>
   <tr>
